@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "35975033111",
+    "firebase_url": "https://mosimachat-default-rtdb.firebaseio.com",
+    "project_id": "mosimachat",
+    "storage_bucket": "mosimachat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35975033111:android:d122d5c34028ff8c364752",
+        "android_client_info": {
+          "package_name": "com.example.mosimachat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35975033111-6n7c44p1ffln389q672gf9aj2laium6k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mosimachat",
+            "certificate_hash": "0678203ff5d019267746c6ab388b4c6b13705155"
+          }
+        },
+        {
+          "client_id": "35975033111-7i9g7ksn022g17pppbhv9532vdi5tj0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJwcj79Pu6dKBl6guN5QHrjksgI0-SYLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35975033111-7i9g7ksn022g17pppbhv9532vdi5tj0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
